@@ -60,5 +60,11 @@
     <ClCompile Include="ex15_종합문제2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="e65_동적할당.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="e66_깊은복사.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
